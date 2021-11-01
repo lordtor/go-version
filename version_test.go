@@ -1,4 +1,4 @@
-package version
+package go_version
 
 import (
 	"reflect"
